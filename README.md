@@ -1,4 +1,4 @@
-Gateway Map assignment
+## Gateway Map assignment
 
 Within the time given, I was only able to finish first 2 requirements:
   - Add random gateway
