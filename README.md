@@ -5,6 +5,8 @@ Within the time given, I was only able to finish first 2 requirements:
   - Display gateway popup
 
 
-##To run it in your local
+## To run it in your local
   - npm install
   - yarn start
+
+## Total time used: ~ 60 mins
