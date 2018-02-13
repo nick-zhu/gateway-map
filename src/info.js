@@ -8,9 +8,7 @@ export default class GatewayInfo extends PureComponent {
 
     return (
       <div>
-        <div>
-          {displayName}
-        </div>
+        {displayName}
       </div>
     );
   }
