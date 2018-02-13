@@ -1,0 +1,19 @@
+[{
+  "name": "Gateway-1",
+  "latitude": 36.85268299599549,
+  "longitude": -120.10515194664137
+},
+{
+  "name": "Gateway-2",
+  "latitude": 36.76876551845448,
+  "longitude": -122.16534289510587
+}, {
+  "name": "Gateway-3",
+  "latitude": 37.49583445655244,
+  "longitude": -120.13259594574504
+}, {
+  "name": "Gateway-4",
+  "latitude": 36.49113276239061,
+  "longitude": -122.28081769593177
+}
+]
